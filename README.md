@@ -2,6 +2,13 @@
 
 Redux에서 인증정보를 관리할 수 있는 React 컴포넌트.
 
+## 실행 환경 설정
+
+src/config.js
+```
+export default clientId = "< 구글 api 클라이언트 키 >"
+```
+
 ## 로그인 과정
 1) 컴포넌트 마운트
 2) 인증에 필요한 gapi 로드, 초기화
