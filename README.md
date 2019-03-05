@@ -6,7 +6,7 @@ Redux에서 인증정보를 관리할 수 있는 React 컴포넌트.
 
 src/config.js
 ```
-export default clientId = "< 구글 api 클라이언트 키 >"
+export default clientId = "< 구글 api Cliend ID >"
 ```
 
 ## 로그인 과정
